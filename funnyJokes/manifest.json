@@ -1,3 +1,13 @@
 {
-    "start a new project"
+    "name": "Funny Jokes",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "This 'Google Chrome Extension' is make by '@technicalMasterSP'. This extension is provoid every time a new 'Funny Jokes'.",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icom": {
+            "128": "logo.png"
+        }
+    },
+    "permisions": ["activeTab"]
 }
