@@ -5,9 +5,9 @@
     "description": "This 'Google Chrome Extension' is make by '@technicalMasterSP'. This extension is provoid every time a new 'Funny Jokes'.",
     "action": {
         "default_popup": "popup.html",
-        "default_icom": {
+        "default_icon": {
             "128": "logo.png"
         }
     },
-    "permisions": ["activeTab"]
+    "permissions": ["activeTab"]
 }

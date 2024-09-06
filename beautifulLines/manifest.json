@@ -1,0 +1,13 @@
+{
+    "name": "Beautiful Lines",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "This Chrome extension is make by technicalMasterSP. This extension is provoid every time a new 'Beautiful Lines'.",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "128": "logo.png"
+        }
+    },
+    "permissions": ["activeTab"]
+  }
